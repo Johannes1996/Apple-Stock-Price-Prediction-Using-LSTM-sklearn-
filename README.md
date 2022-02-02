@@ -1,1 +1,1 @@
-# Apple-Stock-Price-Prediction-Using-LSTM-sklearn-
+# Apple Stock-Price Prediction Using LSTM (sklearn)
